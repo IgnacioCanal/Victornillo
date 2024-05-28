@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+}
+
+header .navbar .container-fluid h1 .navbar-brand {
+  font-size: 2rem;
+  color: #dced27;
+}
+
+/*# sourceMappingURL=style.css.map */
